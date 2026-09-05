@@ -1,0 +1,6 @@
+date,date_id,year,month,month_name,day,day_name,week_of_year,is_weekend
+2026-04-17,20260417,2026,4,April,17,Friday,16,False
+2026-04-18,20260418,2026,4,April,18,Saturday,16,True
+2026-04-19,20260419,2026,4,April,19,Sunday,16,True
+2026-04-20,20260420,2026,4,April,20,Monday,17,False
+2026-04-21,20260421,2026,4,April,21,Tuesday,17,False
