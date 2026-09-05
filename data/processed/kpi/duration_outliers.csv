@@ -1,0 +1,2 @@
+flight_id,airline_id,route_id,departure_time,arrival_time,dep_date_id,arr_date_id,duration_minutes,is_overnight,is_corrupted_time,source,destination,route_label,mean,std,duration_zscore
+6F212,4,25,2026-04-19 06:10:41.703,2026-04-19 10:52:41.703,20260419,20260419,282.0,False,False,BLR,CCU,BLR → CCU,128.52380952380952,75.23338291451412,2.0400011873795676

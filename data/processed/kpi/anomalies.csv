@@ -1,0 +1,4 @@
+anomaly_type,count
+Corrupted timestamp (arrival before departure),1
+Overnight flight,122
+Unknown airline,69
