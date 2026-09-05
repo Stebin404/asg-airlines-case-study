@@ -1,0 +1,2 @@
+table,action,rows_before,rows_after,rows_affected
+flights,drop full duplicates,1020,1005,15
